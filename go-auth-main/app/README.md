@@ -1,6 +1,6 @@
-# Memorization Tracker API
+# Cloning Trello
 
-This is a RESTful API for tracking Quran memorization progress, implemented using the GIN framework and GORM for database handling.
+This is a RESTful API forTrello is the visual work management tool that empowers teams to ideate, plan, manage, and celebrate their work together in a collaborative, productive, and organized way.
 
 ## Getting Started
 
